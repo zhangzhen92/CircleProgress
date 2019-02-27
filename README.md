@@ -4,7 +4,7 @@
 ![avatar](img/image_progress.png)
 
 实现效果图：
-(https://github.com/zhangzhen92/CircleProgress/blob/master/img/img_result.gif)
+![result](https://github.com/zhangzhen92/CircleProgress/blob/master/img/img_result.gif)
 
 
 1.首先进行圆弧画笔的初始化：
