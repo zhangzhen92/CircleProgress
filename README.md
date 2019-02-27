@@ -4,6 +4,8 @@
 ![avatar](img/image_progress.png)
 
 实现效果图：
+
+
 ![result](https://github.com/zhangzhen92/CircleProgress/blob/master/img/img_result.gif)
 
 
