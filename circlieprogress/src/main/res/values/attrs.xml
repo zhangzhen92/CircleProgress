@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Circle_Progress">
+       <!-- 最大刻度值、起始进度值-->
+       <attr name="max_progrss" format="integer"/>
+        <attr name="start_progress" format="integer"/>
+        <!--外层圆弧的颜色、宽度-->
+        <attr name="outside_color" format="color"/>
+        <attr name="outside_width" format="dimension"/>
+
+        <!--进度的颜色、宽度-->
+        <attr name="progress_color" format="color"/>
+        <attr name="progress_width" format="dimension"/>
+        <!--进度值的字体大小、颜色-->
+        <attr name="progress_text_size" format="dimension"/>
+        <attr name="progress_text_color" format="color"/>
+
+        <!--描述文本的大小、颜色-->
+        <attr name="des_text_size" format="dimension"/>
+        <attr name="des_text_color" format="color"/>
+        <attr name="des_str" format="string"/>
+    </declare-styleable>
+</resources>
