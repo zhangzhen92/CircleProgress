@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="outside_width">1dp</dimen>
+    <dimen name="progress_width">8dp</dimen>
+    <dimen name="progress_text_size">46sp</dimen>
+    <dimen name="des_text_size">16sp</dimen>
+</resources>
